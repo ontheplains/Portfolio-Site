@@ -1,18 +1,5 @@
-/*=============================================================
-    Authour URI: www.binarytheme.com
-    License: Commons Attribution 3.0
-
-    http://creativecommons.org/licenses/by/3.0/
-
-    100% To use For Personal And Commercial Use.
-    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
-   
-    ========================================================  */
-/* ===========================================================
-   GENERAL STYLES   
-   ============================================================*/
 body {
-   font-family:'Open Sans', sans-serif;
+    font-family: 'Poiret One', cursive;
     font-weight: 400;
     font-size: 14px;
     color: #000;   
@@ -21,8 +8,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-      font-family:'Open Sans', sans-serif;
-    font-weight: 500;
+   font-family: 'Poiret One', cursive;
+   font-weight: 500;
    line-height:40px;
    
 }
@@ -91,7 +78,7 @@ p {
    ========================================================================== */
 
 #header-section {
-	background: url(../img/header.jpg) no-repeat center top;
+    background: url(../img/header.jpg) no-repeat center top;
 	margin-top: -20px;
 	padding-top:20px;
 	text-align:center;
@@ -124,7 +111,7 @@ p {
 	letter-spacing: 4px;
 }
 .down-icon {
-     color:white;
+    color:white;
     font-weight:900;
 }
 /* ==========================================================================
@@ -160,12 +147,18 @@ p {
    BOOTSTRAP ELEMENTS CHANGES   
    ============================================================*/
 .navbar {
-	font-size: 14px;
+    alignment: center;
+    font-family: 'Nothing You Could Do', cursive;
+	font-size: 20px;
 }
 
+.navbar-brand {
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+}
 .navbar-inverse {
 	background: #000000;
-border-color: #5D5B66;
+    border-color: #5D5B66;
 }
 
 .navbar-inverse .navbar-nav > .active > a {
