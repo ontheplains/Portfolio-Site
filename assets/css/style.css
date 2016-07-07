@@ -147,17 +147,17 @@ p {
    BOOTSTRAP ELEMENTS CHANGES   
    ============================================================*/
 .navbar {
-    alignment: center;
     font-family: 'Nothing You Could Do', cursive;
 	font-size: 20px;
 }
 
 .navbar-brand {
+    background: #000;
     font-family: 'Great Vibes', cursive;
     font-size: 30px;
 }
 .navbar-inverse {
-	background: #000000;
+	background: #000;
     border-color: #5D5B66;
 }
 
@@ -192,8 +192,8 @@ color: #FFFFFF;
    
 
 #footer {
-    background-color: #2F11C4; 
-    color: #fff; 
+    background-color: #024F61;
+    color: #024F61;
     text-align: right; 
     padding: 10px 30px 10px 30px;
 }
